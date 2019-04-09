@@ -1,0 +1,1 @@
+# docsify-fairlay-api
